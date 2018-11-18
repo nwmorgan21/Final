@@ -7,7 +7,7 @@ FPS = 60
 
 # Different slimes
     # Green Slime
-greenslimeimg = 'Project\Final\Project Images\slime_ball_sprite.jpg'
+greenslimeimg = 'Final\Project Images\slime_ball_sprite.jpg'
 greenslimespeed = 10
 
 #Colors
